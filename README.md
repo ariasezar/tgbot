@@ -28,7 +28,7 @@ cd $HOME && git clone https://github.com/sezarvip/tgbot.git && cd tgbot && chmod
 
 ```
 killall -9 bash
-cd sezar && killall screen && screen ./sezar.sh
+cd tgbot && killall screen && screen ./sezar.sh
 ```
 
 * * *
