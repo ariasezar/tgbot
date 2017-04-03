@@ -1,5 +1,5 @@
  
-    <div align="center">
+    
     <a href="https://telegram.me/sezarinfo">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
@@ -7,8 +7,7 @@
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/sezarinfo"><font size="100"></font></a>)
-
+<a href="https://telegram.me/sezarinfo"><font size="100"></font></a>
 
 * * *
 
